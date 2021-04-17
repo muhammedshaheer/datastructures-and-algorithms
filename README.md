@@ -7,3 +7,10 @@
     * Reverse a word
     * Compilers to calculate value of an expression
     * Browsers to save previously visited urls
+  
+* ### Queue
+  * Complexity = O(1)
+  * #### Applications
+    * CPU/Disk scheduling
+    * Synchronisation
+    * Call centre phone system to hold people calling them in order
