@@ -1,5 +1,10 @@
 package datastructuresfirst.stack;
 
+/**
+ * @author Muhammed Shaheer
+ * @since 17 April 2021
+ */
+
 public class Stack {
     private final int[] arr;
     private int top;

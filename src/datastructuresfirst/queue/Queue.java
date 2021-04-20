@@ -1,5 +1,10 @@
 package datastructuresfirst.queue;
 
+/**
+ * @author Muhammed Shaheer
+ * @since 17 April 2021
+ */
+
 public class Queue {
     private final int[] items;
     private final int size;
