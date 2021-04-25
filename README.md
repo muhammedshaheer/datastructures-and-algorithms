@@ -22,3 +22,10 @@
         * CPU Scheduling
         * Memory Management
         * Traffic Management
+
+* ### Deque
+    * Complexity = O(1)
+    * #### Applications
+        * Undo operations
+        * store history in browsers
+        * implementing both stack and queue
